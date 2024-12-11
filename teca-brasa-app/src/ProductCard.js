@@ -5,9 +5,9 @@ const Card = styled.div`
   border: 1px solid #ddd;
   border-radius: 8px;
   padding: 16px;
-  width: 250px;
+  width:300px;
   text-align: center;
-  background-color: #fff;
+  background-color: #000;
   box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
   transition: transform 0.2s ease-in-out, box-shadow 0.2s ease-in-out;
 

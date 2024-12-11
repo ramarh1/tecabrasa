@@ -34,7 +34,7 @@ const RandomDeal = styled.div`
 `;
 
 const products = [
-  { id: 1, name: "Wireless Earbuds", image: "/earbuds.jpg", price: 59.99 },
+  { id: 1, name: "Wireless Earbuds", image: "https://ss7.vzw.com/is/image/VerizonWireless/mxp63ll-a?wid=700&hei=700&fmt=webp", price: 59.99 },
   { id: 2, name: "Smartwatch", image: "/smartwatch.jpg", price: 199.99 },
   { id: 3, name: "Smartwatch", image: "/smartwatch.jpg", price: 799.99 },
   { id: 4, name: "iPhone XR", image: "/iphonexr.jpg", price: 600.00 },
